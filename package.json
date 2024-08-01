@@ -1,0 +1,21 @@
+{
+  "name": "shadow-code",
+  "displayName": "Shadow Code",
+  "description": "ShadowCode is a dark and minimalist theme designed to enhance focus and readability. Ideal for developers who prefer a distraction-free coding environment, ShadowCode combines deep, rich colors with clean and simple design elements to ensure your code stands out.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ShadowCode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ShadowCode-color-theme.json"
+      }
+    ]
+  }
+}
