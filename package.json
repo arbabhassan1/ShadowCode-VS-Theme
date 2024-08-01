@@ -2,7 +2,7 @@
   "name": "shadow-code",
   "displayName": "Shadow Code",
   "description": "ShadowCode is a dark and minimalist theme designed to enhance focus and readability. Ideal for developers who prefer a distraction-free coding environment, ShadowCode combines deep, rich colors with clean and simple design elements to ensure your code stands out.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "arbabhassan",
   "engines": {
     "vscode": "^1.91.0"
@@ -28,5 +28,9 @@
       }
     ]
   },
-  "icon": "./resources/icon.png"
+  "icon": "my-icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arbabhassan1/ShadowCode-VS-Theme"
+  }
 }
