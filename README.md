@@ -1,16 +1,24 @@
-# shadow-code README
+# shadow-code
 
-## Working with Markdown
+## Project Description
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+**shadow-code** is a tool designed to enhance coding productivity with a customizable theme. It provides a visually appealing and functional coding environment to make development more enjoyable.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Features
 
-## For more information
+- **Customizable Themes**: Choose and apply various themes to suit your coding preferences.
+- **High Contrast Mode**: Enhance visibility with a high contrast mode.
+- **Supports Multiple Languages**: Compatible with various coding languages.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Screenshot
 
-**Enjoy!**
+![Screenshot](./resources/preview.png)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
+
+## Acknowledgments
+
+- Thanks to [Visual Studio Code](https://code.visualstudio.com/) for their excellent Markdown support.
+- Thanks to [GitHub](https://github.com/) for providing a platform for open-source collaboration.

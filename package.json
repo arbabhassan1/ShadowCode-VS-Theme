@@ -16,7 +16,6 @@
     "darktheme",
     "shadow code",
     "shadowcode",
-    "arbab",
     "dark",
     "theme"
   ],
@@ -28,5 +27,6 @@
         "path": "./themes/ShadowCode-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "./resources/icon.png"
 }
